@@ -28,3 +28,4 @@ Crescente
 
 ###
 
+Esse código me deixou bastante feliz. Por mais que seja extremamente fácil sua lógica, desenvolvi de primeira com muita clareza e segurança. Acredito que estou evoluindo...
